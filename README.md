@@ -18,4 +18,11 @@ Calculator App is written in Python and you can launch it either from any local 
 <a href="https://www.w3schools.com/python/trypython.asp?filename=demo_compiler">W3Schools</a><br>
 <a href="https://www.programiz.com/python-programming/online-compiler">Programiz</a>
 
+<hr>
+
+## Run Calculator App on Replit
+
+You can also run the code to play with it on Replit. <br>
+
+<a href="https://replit.com/@saverionegro/calculator-app#">Calculator App Replit</a>
 
