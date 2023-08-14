@@ -10,10 +10,12 @@ Calculator App is a simple calculator which allows you to perform basic operatio
 
 Calculator App is written in Python and you can launch it either from an IDE which is able to compile Python source code, or from any other Python code editor from the web which enables you to run the code.
 
+<hr>
+
 ## Some Online Python Editors / Compilers
 
-<a href="https://replit.com/new/python3">Replit</a>
-<a href="https://www.w3schools.com/python/trypython.asp?filename=demo_compiler">W3Schools</a>
+<a href="https://replit.com/new/python3">Replit</a><br>
+<a href="https://www.w3schools.com/python/trypython.asp?filename=demo_compiler">W3Schools</a><br>
 <a href="https://www.programiz.com/python-programming/online-compiler">Programiz</a>
 
 
