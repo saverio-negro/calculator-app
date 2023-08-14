@@ -20,7 +20,7 @@ Calculator App is written in Python and you can launch it either from any local 
 
 <hr>
 
-## Run Calculator App on Replit
+## Calculator App on Replit
 
 You can also run the code to play with it on Replit. <br>
 
