@@ -40,13 +40,13 @@ def display_exit_message():
     print("Exiting the calculator...")
     time.sleep(3)
     os.system("clear") if is_linux else os.system("cls")
+    print("Bye bye!")
 
 # Restart Message
 def display_restart_message():
     print("Restarting the calculator...")
     time.sleep(3)
     os.system("clear") if is_linux else os.system("cls")
-    print("Bye bye!")
     
 operations = {
 "+": add,
