@@ -1,6 +1,6 @@
 # Calculator App
 
-<img src="/datamath-2500-calculator.jpg" width="50%" height="50%"></img>
+<img src="/datamath-2500-calculator.jpg" width="40%" height="40%"></img>
 <hr>
 <a href="https://www.flickr.com/photos/44337451@N00/6083134852">Photo by Vincent</a>
 
