@@ -4,11 +4,16 @@
 <br>
 Photo by: <a href="https://www.flickr.com/photos/44337451@N00/6083134852">Vincent</a>
 <hr>
-If you are someone who appreciates 80's styled calculator just like the one in the picture above, then this program may a pretty good fit for you.
+In case you are someone who appreciates 80's styled calculator just like the one in the picture above, then this program may a pretty good fit for you.
 
 Calculator App is a simple calculator which allows you to perform basic operations through the terminal. Pretty much made for math geeks 🧮 🤓
 
 Calculator App is written in Python and you can launch it either from an IDE which is able to compile Python source code, or from any other Python code editor from the web which enables you to run the code.
 
-If you need an Online Python Compiler, try the <a href="https://www.w3schools.com/python/trypython.asp?filename=demo_compiler">W3Schools Editor</a>
+## Some Online Python Editors / Compilers
+
+<a href="https://replit.com/new/python3">Replit</a>
+<a href="https://www.w3schools.com/python/trypython.asp?filename=demo_compiler">W3Schools</a>
+<a href="https://www.programiz.com/python-programming/online-compiler">Programiz</a>
+
 
